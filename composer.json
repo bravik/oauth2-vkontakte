@@ -1,6 +1,7 @@
 {
     "name": "bravik/oauth2-vkontakte",
     "description": "Vkontakte provider for league/oauth2-client",
+    "version": "2.0.0",
     "keywords": [
         "league",
         "package"
